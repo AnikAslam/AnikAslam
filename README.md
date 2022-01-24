@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnikAslam , Data scientist at @AIUNIVERSAL
+- 👋 Hi, I’m @AnikAslam , Currently looking for a permenant position as Data Scientist or Data Analyst.
 - 👀 I’m interested in Data Visualization and Analysis
 - 🌱 I’m currently learning More python libraries for Data Science (If you know some let me know..)
 - 💞️ I’m looking to collaborate on any interesting task related to data science and data visualization.
